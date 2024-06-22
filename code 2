@@ -11033,15 +11033,15 @@ nukeEnding = () => {
 
     nct_stuff.dynamicOverride = true;
     nct_stuff.themes[nct_stuff.selectedTheme] = {
-        name: "Goldwater Particles",
+        name: "Bobby,s mind",
         background: "https://i.imgur.com/0F4kB5C.jpeg",
         background_cover: true,
         banner: "https://i.imgur.com/hU7llEY.jpeg",
         coloring_window: "#600c0c",
-        coloring_container: "#110707",
+        coloring_container: "#110711",
         coloring_title: "#160404",
         text_col: "white",
-        window_url: "https://i.imgur.com/RQ6i2h1.png"
+        window_url: "https://i.imgur.com/x6LzB3U.jpeg"
     }
     selectedTheme = nct_stuff.themes[nct_stuff.selectedTheme]
     document.body.style.backgroundColor="black" // lol
@@ -11290,7 +11290,7 @@ nukeEnding = () => {
         }
     
         mapImage.style.opacity = "0";
-        mapImage.src = "https://i.imgur.com/1TBGDmF.png";
+        mapImage.src = "https://i.imgur.com/VyHfupZ.png";
     
         setTimeout(() => {
             setTimeout(() => {
