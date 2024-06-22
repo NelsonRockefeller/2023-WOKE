@@ -46,7 +46,46 @@ campaignTrail_temp.candidate_state_multiplier_json.forEach((item) => {
 
 
 
+if((ans == 3676)){
+campaignTrail_temp.running_mate_image_url = "https://imgur.com/7KVJH9g.png"
+campaignTrail_temp.running_mate_last_name = 'Jackson'
+campaignTrail_temp.running_mate_state_id = 329
+document.body.background = "https://imgur.com/8yJ3lCq.png"
 
+vpTable["John F. Kennedy"] = "Henry M. Jackson"; 
+
+}
+if((ans == 3673 || ans == 3674 || ans == 3675)){
+    campaignTrail_temp.running_mate_image_url = "https://imgur.com/N5rFDPJ.png"
+    campaignTrail_temp.running_mate_last_name = 'Johnson'
+    campaignTrail_temp.running_mate_state_id = 325
+    document.body.background = "https://imgur.com/8yJ3lCq.png"
+    
+    vpTable["John F. Kennedy"] = "Lyndon B. Johnson"; 
+
+}
+if((ans == 3676)){
+campaignTrail_temp.questions_json[25] = {
+    "model": "campaign_trail.question",
+    "pk": 2000,
+    "fields": {
+        "priority": 8,
+        "description": "While you have a lot of affection for Scoop, it’s undeniable that he’s not exactly an exemplary campaigner. How should his talents be best used?",
+        "likelihood": 1
+    }
+}
+}
+if((ans == 3673 || ans == 3674 || ans == 3675)){
+    campaignTrail_temp.questions_json[25] = {
+        "model": "campaign_trail.question",
+        "pk": 2001  ,
+        "fields": {
+            "priority": 8,
+            "description": "Despite your distaste for the man, it can’t be denied he’s been an excellent choice as Jack’s running mate. He’s been a vigorous campaigner and flexed as much influence over Southern states as he can. With the campaign coming to a close, where should he focus his efforts?                ",
+            "likelihood": 1
+        }
+    }
+    }
 
 
 
@@ -514,7 +553,7 @@ nukeEnding = () => {
             - *****Automated Primary Nuclear Command and Control System Report.&
         `,
         phone: `
-            Nobody understood what brought Goldwater down upon us.***//
+            Ringing***//
             
             .***.***.**//
     
