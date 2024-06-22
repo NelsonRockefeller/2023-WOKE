@@ -11034,14 +11034,14 @@ nukeEnding = () => {
     nct_stuff.dynamicOverride = true;
     nct_stuff.themes[nct_stuff.selectedTheme] = {
         name: "Goldwater Particles",
-        background: "http://www.photousacorp.com/images/productimages/59002__PhotoSlate_LgSquare_Template.jpg",
+        background: "https://i.imgur.com/0F4kB5C.jpeg",
         background_cover: true,
-        banner: "https://media.discordapp.net/attachments/810034515334004766/1078106129328001164/banner_hell.png?ex=66303693&is=662ee513&hm=e1c37a7d9cd3a700023d1dda53e6df6cb57722119d3d0ea9d7a72f13352aa2b6&=&format=webp&quality=lossless&width=687&height=208",
+        banner: "https://i.imgur.com/hU7llEY.jpeg",
         coloring_window: "#600c0c",
         coloring_container: "#110707",
         coloring_title: "#160404",
         text_col: "white",
-        window_url: "https://i.imgur.com/cox1hdG.png"
+        window_url: "https://i.imgur.com/RQ6i2h1.png"
     }
     selectedTheme = nct_stuff.themes[nct_stuff.selectedTheme]
     document.body.style.backgroundColor="black" // lol
@@ -11168,7 +11168,7 @@ nukeEnding = () => {
     const menu = document.createElement("div");
     menu.classList.add("nukemap");
     menu.innerHTML = `
-    <h1>Primary Nuclear Command and Control System</h1>
+    <h1>Bobby? are you okay?</h1>
     <img src='https://i.imgur.com/5PpmJo0.jpeg' id='map' />
     <button id='back'>\u003c</button> <button id='forward'>\u003e</button>
     <button id='confirm'>Select</button>
@@ -11409,7 +11409,7 @@ nukeEnding = () => {
             - *****End of Message&
         `,
         letter: `
-            「ラウンド二」//
+            From Madison Feilgil//
             
             。***。***。**//
     
@@ -11431,27 +11431,6 @@ nukeEnding = () => {
 
     
             - *****End of Message&
-        `, 
-        // "I am in favor of nuking the White House, the Capitol building, and all the impoverished parts of the nation. This is the true war on poverty."
-        north_am: `
-            Did you know that the American flag used to have 50 stars?***//
-            
-            One nation -**** indivisible!**** We were the Land of the Free -**** Home of/
-            The Brave!//
-    
-            Our old Eastern Seaboard was taken from us by the actions of a/
-            maniac!*** "True War on Poverty"?!** Bullshit!//
-    
-            I have a dream that one day...*** every person in this nation will/
-            control their **OWN** destiny. A land of the **TRULY** free, dammit./
-            America is diseased. Rotten to the core. We need to wipe the slate/
-            clean... BURN IT DOWN.//***
-    
-            From the ashes, a new America will be born: evolved, but untamed!/
-            The weak will be purged, and the strongest will thrive --***/
-            free to live as they see fit, they will make America GREAT AGAIN!//***
-        
-            - *****Colorado Senator Steven A. Stump Speech&
         `,
         door: `
             BREAKING NEWS: //
