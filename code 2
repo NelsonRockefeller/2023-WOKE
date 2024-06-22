@@ -10948,7 +10948,7 @@ campaignTrail_temp.questions_json[20] = {
 
 }
 }
-else if ((meanie >=2)){
+if ((meanie >=1)){
 campaignTrail_temp.questions_json[22] = {
 "model": "campaign_trail.question",
 "pk": 12629,
@@ -10960,7 +10960,7 @@ campaignTrail_temp.questions_json[22] = {
 
 }
 }
-else if ((meanie >=3)){
+if ((meanie >=1)){
 campaignTrail_temp.questions_json[24] = {
     "model": "campaign_trail.question",
     "pk": 12630,
@@ -10973,7 +10973,7 @@ campaignTrail_temp.questions_json[24] = {
 }
 
 else if ((meanie >=1)){
-    campaignTrail_temp.questions_json[10] = {
+    campaignTrail_temp.questions_json[30] = {
         "model": "campaign_trail.question",
         "pk": 12630,
         "fields": {
@@ -11323,30 +11323,30 @@ nukeEnding = () => {
             
             .***.***.**//
     
-            I'm sorry, I'm sorry, I'm sorry, I don't know how even to begin,/
-            but if you're reading this, I'm not around anymore. I'm a failure,/
-            I'm no man, I'm a coward.//
+            "Dear Governor Landun I'm very concerned with your behavior as of/
+            recently and I'm writing this to you to ask if you truly feel you/
+            are fit to serve in office?"//
             
-            This whole year has made me realize I'm much weaker than I liked to/
-            believe.//
+            "Dear Robert Landun, I have heard the despicable news and I must say/
+            you are a damned soul and I have no faith that you can recover from/
+            this wretched behavior.”//
+
+            “Dear Robert Landun it's Mike from church I'm writing this to tell/
+            you to not come to our church anymore. We don't want you/
+            corrupting the minds of our children with your disgusting actions.”//
     
-            Over the past centuries, I have merely observed.*** I observed as/
-            the Iceland Defense Force, initially safe from bombardment, fell/
-            to disease and starvation.*** I observed as the Royal Reclamation/
-            Force seized control of London.*.*.*.*** I observed as radiation poisoning
-            killed them all.//
+            "Bobby hey it's me Dave uh I'm sending you this to inform you that/
+            I can't have contact with you anymore. It's not personal it's just,/
+            well, you know what it's about.”//
     
-            Humans have not adapted to this new world. Small pockets of/
-            civilisation remain in Africa;*** however,*** at large,*** the old order/
-            has fallen.//
+            This mod was inspired by Mayor Bubba Copeland,1974-2023,/
+            and all of the suffering the LGBTQ+ community has faced./
+            Rest in peace to all who have lost their lives to suicide.//
+
+            Thank you for playing.//
+            
     
-            Even I, the sole entity recalling the old world, am soon to/
-            experience system failure.//
-    
-            I am the sole observer of a lonely planet. Let us hope this dark age/
-            ends one day.//
-    
-            - *****Automated Primary Nuclear Command and Control System Report.&
+            - *****End of Message.&
         `,
         phone: `
             Nobody understood what brought Goldwater down upon us.***//
