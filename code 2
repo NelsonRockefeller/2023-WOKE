@@ -10791,6 +10791,20 @@ campaignTrail_temp.jet_data = [{
 }
 ]
 
+
+ans = campaignTrail_temp.player_answers[campaignTrail_temp.player_answers.length - 1]
+cyoAdventure = function(a) {
+
+if (ans == 3405 || ans == 3323 || ans == 3316 || ans == 3323) { //do something here}
+    campaignTrail_temp.questions_json[25] = {
+        "model": "campaign_trail.question",
+        "pk": 2001  ,
+        "fields": {
+            "priority": 8,
+            "description": "Despite your distaste for the man, it can’t be denied he’s been an excellent choice as Jack’s running mate. He’s been a vigorous campaigner and flexed as much influence over Southern states as he can. With the campaign coming to a close, where should he focus his efforts?                ",
+            "likelihood": 1
+
+
 endingPicker = (out, totv, aa, quickstats) => {
     used=false
         //out = "win", "loss", or "tie" for your candidate
