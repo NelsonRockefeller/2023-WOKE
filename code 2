@@ -11319,7 +11319,7 @@ nukeEnding = () => {
     
     nuke.epilogues = {
         letters: `
-            Dear Maggie***//
+            Dear Governor Landun,***//
             
             .***.***.**//
     
@@ -11349,32 +11349,36 @@ nukeEnding = () => {
             - *****End of Message.&
         `,
         phone: `
-            Nobody understood what brought Goldwater down upon us.***//
+            Ringing***//
             
             .***.***.**//
     
-            To describe what I saw in those days is to describe the eruption of/
-            hell itself.*** This is not in the metaphorical sense, but rather the/
-            literal description of the sheer horror of our era.*** The laughter of/
-            our children was forever gone,**** their smiles erased.//
+            Maggie.. I'm so sorry Maggie. I can't deal with this anymore./
+            It's just too much. I don't know what to do./
+            I don't want to die but I don't want to feel this pain anymore.”//
     
-            Naturally, the Soviets presumed they were the strike's target,*** leading/
-            to a further retaliatory strike upon us.*** Nowdays one can visit the/
-            ruins of Paris to see the crater where once the Eiffel Tower stood.//***
+            “Bobby where are you? Are you okay? Are you safe?”//***
     
-            This situation is rather pathetic,*** if you think about it.//
+            “I'm in our mansion. I.. don't know what I'm doing anymore.”//
+
+            “Talk to me Bobby please just no matter what I want to hear your voice!”//
+
+            “I don't know what to say, it's all just too much Maggie..”//
     
-            Goldwater was allowed to hide off safely in his bunker as his/
-            nation burned around him.*** They couldn't even impeach them thanks to/
-            the martial law.//
-    
-            In any case, I will continue this later.***** I have business at the/
-            embassy with the People's Republic of Britain.//
-    
-            - *****A Survivor's Diary&
+            “Listen Bobby.. baby I'm here for you, I'm always here and I'll always be here/
+            I won't leave let's just talk it out like always. This isn't our first rodeo.”//
+
+            “Okay.. I- I don't know where to starts. Well-”//
+
+             This mod was inspired by Mayor Bubba Copeland,1974-2023,/
+            and all of the suffering the LGBTQ+ community has faced./
+            Rest in peace to all who have lost their lives to suicide.//
+
+            Thank you for playing.//
+            - *****End of Message&
         `,
         pills: `
-            "Advance Australia Fair"***//
+            "Dear Maggie"***//
             
             .***.***.**//
     
@@ -11385,23 +11389,48 @@ nukeEnding = () => {
             This whole year has made me realize I'm much weaker than I liked to/
             believe.//
     
-            Goldwater's occupation force can go***** fuck**** themselves.**** We won't be/
-            a new campaign trail for his third re-election campaign.//
-    
-            - *****Leader of the Eureka Knights' Final Letter (1974)&
+            When I first dealt with something as painful as this, my mother beat me down./
+            I feel like the walls are closing in. I worked so hard to defend those like me,/
+            I feel like the walls are closing in. but I'm being beaten down and tortured for it.// 
+
+            I know I'm abandoning you and the kids, but it's best if you don't have my legacy to burden you./
+             Our faith has condemned me from birth, and there's no sense in keeping my judgment waiting.//
+
+            I just wanted to feel comfortable; I just wanted to feel right for once in my life.// 
+
+            I love you, Maggie; tell the kids that I'm sorry. Tell them, tell them that I'm always going to be here in their hearts.//
+
+             This mod was inspired by Mayor Bubba Copeland,1974-2023,/
+            and all of the suffering the LGBTQ+ community has faced./
+            Rest in peace to all who have lost their lives to suicide.//
+
+            Thank you for playing.//
+
+            - *****End of Message&
         `,
         letter: `
             「ラウンド二」//
             
             。***。***。**//
     
-            「いまは自分には、幸福も不幸もありません。ただ、一さいは過ぎて行きます。
-            自分がいままで阿鼻叫喚で生きて来た所謂「人間」の世界に於いて、たった一つ、
-            真理らしく思われたのは、それだけでした。ただ、一さいは過ぎて行きます。
-            自分はことし、二十七になります。白髪がめっきりふえたので、たいていの人から、
-            四十以上に見られます。」//
+            “Hi, I'm Maddison, and I'm writing this to say that I've seen what the people are saying about you./
+             I've seen what the people are saying about you. I'm sorry everyone is so mean to you./
+             I'm a lot like you, Mister. I'm Trans; my parents said I need to wait until I'm older to get any surgery/
+             but my name is Madison now! I was hoping that you're doing okay. My mommy said that you weren't doing very well,/
+             and I just really, really, really wanted to do something to make you happy. I'm really scared of what other kids/
+             will think of me now that I'm going by my new name, but when I hear of adults like you,/
+             I get really happy! You show the world that we can make it. You're living our futures. I hope you're okay, Mr. Bob.//
+
+             Much love, Madison.//
+
+             This mod was inspired by Mayor Bubba Copeland,1974-2023,/
+            and all of the suffering the LGBTQ+ community has faced./
+            Rest in peace to all who have lost their lives to suicide.//
+
+            Thank you for playing.//
+
     
-            - *****命失格&
+            - *****End of Message&
         `, 
         // "I am in favor of nuking the White House, the Capitol building, and all the impoverished parts of the nation. This is the true war on poverty."
         north_am: `
@@ -11425,47 +11454,22 @@ nukeEnding = () => {
             - *****Colorado Senator Steven A. Stump Speech&
         `,
         door: `
-            The True North Strong and Free//
+            BREAKING NEWS: //
     
-            It is 1967.*** New York is burning./*****
-            Nous sommes en 1967.*** New York brûle.//
+            Governor Robert Landun has reportedly*****
+            been taken into custody by the Hinds County police!//
             
-            It’s been a little more than two years since Barry Goldwater blew a/
-            hole through time and space, burning to the ground Montreal,** Toronto,**/
-            and Ottawa,*** all in an instant.****/
-            Cela fait un peu plus de deux ans que Barry Goldwater a creusé un/
-            trou dans le temps et l'espace, incendiant Montréal,** Toronto** et Ottawa,**/
-            le tout en un instant.//***
+            Reports of an attempted suicide, possibly due to the cross-dressing allegations/
+            along with several other damning claims against the Governor.//
             
-            The world held its breath as we,*** Canadians especially,*** attempted to/
-            comprehend the intensity and catastrophic nature of the violence just/
-            wrought upon us./****
-            Le monde a attendu pendant que nous,*** Canadiens en particulier,***/
-            luttions pour accepter l'intensité et la nature catastrophique/
-            de la violence qui s'abat sur nous.//****
+             This mod was inspired by Mayor Bubba Copeland,1974-2023,/
+            and all of the suffering the LGBTQ+ community has faced./
+            Rest in peace to all who have lost their lives to suicide.//
+
+            Thank you for playing.//
+
             
-            Maybe Goldwater meant for the bombs to help him “saw off the eastern seaboard”./****
-            Maybe he was afraid of such a liberal government so close to him./****
-            Peut-être que Goldwater voulait que les bombes l'aident à "scier la côte/
-            est"./****
-            Peut-être avait-il peur d'un gouvernement aussi libéral si proche.//****
-            
-            We** did** not** care.**/
-            Nous** ne** nous** soucions** pas.**//
-            
-            We were a sleeping bear.*** We are now awake.***/
-            Nous étions un ours endormi.*** Nous sommes maintenant réveillés.//***
-            
-            We will not stop until their capital is ash.****/
-            Nous n' arrêterons pas tant que leur capital ne sera pas en cendres.****//
-            
-            They have taken too much./***
-            Ils en ont pris trop.//***
-            
-            Long Live Canada/****
-            Vive Le Canada!//
-            
-            *******ERROR 404:**** VIVA KENNEDY NOT FOUND.&
+             - *****End of Message&
         `
     }
     
