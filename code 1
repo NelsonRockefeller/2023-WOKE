@@ -29,7 +29,7 @@ campaignTrail_temp.election_json = [
         "pk": 9,
         "fields": {
             "year": 2000,
-            "summary": "<p>As the 2023 Mississippi Gubernatorial election begins, incumbent Republican Governor Robert C. Landun enjoys an approval rating of over 55%. Democratic challenger Cameron Murray, a journalist, attempts a herculean upward challenge against Governor Landun. Murray is known for using nasty attacks, such as grueling attacks against his primary opponents.</p><p>Candidates will debate what to do with a $200 billion budget surplus, among other things. In the real world, Florida was decided by 537 votes after 36 days and a Supreme Court decision.</p>",
+            "summary": "<p>As the 2023 Mississippi Gubernatorial election begins, incumbent Republican Governor Robert C. Landun enjoys an approval rating of over 55%. Democratic challenger Cameron Murray, a journalist, attempts a herculean upward challenge against Governor Landun. Murray is known for using nasty attacks, such as grueling attacks against his primary opponents.</p><p>WARNING: THIS MOD IS A FICTIONAL ELECTION WITH MAJOR LGBTQ+, SUICIDE, AND DEPRESSION THEMES. </p>",
             "image_url": "https://i.imgur.com/eR0X7RZ.jpeg",
             "winning_electoral_vote_number": 270,
             "advisor_url": "https://www.jetsimon.com/public/static/images/rove-brazile.jpg",
@@ -37,7 +37,7 @@ campaignTrail_temp.election_json = [
             "has_visits": 1,
             "no_electoral_majority_image": "https://www.jetsimon.com/public/static/images/2012-no-majority.jpg",
             "creator": "Dan Bryan",
-            "display_year": "2000"
+            "display_year": "2023 WOKE"
         }
     }
 ]
@@ -93,14 +93,14 @@ campaignTrail_temp.candidate_json = [
         "model": "campaign_trail.candidate",
         "pk": 79,
         "fields": {
-            "first_name": "Jack N.",
-            "last_name": "Risie",
+            "first_name": "William L.",
+            "last_name": "Shirley",
             "election": 9,
             "party": "Green",
             "state": "Connecticut",
             "priority": 3,
             "description": "<p>Ralph Nader enters the 2000 election as the Green candidate after years as an activist and consumer advocate.</p><p>After eight years of Bill Clinton, it is clear that the United States needs a true liberal alternative -- one that will fight for fair trade, universal health care, free college, and campaign finance reform. Nader's primary goal in this election is to win 5% of the popular vote, which will qualify the Green Party for federal matching funds in 2004.</p>",
-            "color_hex": "#00C100",
+            "color_hex": "#95283e",
             "secondary_color_hex": "#A1FFA1",
             "is_active": 0,
             "image_url": "https://www.jetsimon.com/public/static/images/ralph-nader-2000.jpg",
@@ -116,14 +116,14 @@ campaignTrail_temp.candidate_json = [
         "model": "campaign_trail.candidate",
         "pk": 80,
         "fields": {
-            "first_name": "Pat",
-            "last_name": "Buchanan",
+            "first_name": "Jack N.",
+            "last_name": "Rissie",
             "election": 9,
             "party": "Reform",
             "state": "Virginia",
             "priority": 4,
             "description": "''",
-            "color_hex": "#FFFF00",
+            "color_hex": "#5ad394",
             "secondary_color_hex": "#FFFFC0",
             "is_active": 0,
             "image_url": "''",
@@ -139,159 +139,21 @@ campaignTrail_temp.candidate_json = [
         "model": "campaign_trail.candidate",
         "pk": 81,
         "fields": {
-            "first_name": "Dick",
-            "last_name": "Cheney",
+            "first_name": "Margaret B.",
+            "last_name": "Landun",
             "election": 9,
             "party": "Republican",
-            "state": "Wyoming",
+            "state": "Alcorn",
             "priority": 5,
             "description": "''",
             "color_hex": "#FF0000",
             "secondary_color_hex": "#FFA0A0",
             "is_active": 0,
-            "image_url": "https://www.jetsimon.com/public/static/images/dick-cheney-2000.jpg",
+            "image_url": "https://i.imgur.com/cwjQiRv.png",
             "electoral_victory_message": "''",
             "electoral_loss_message": "''",
             "no_electoral_majority_message": "''",
-            "description_as_running_mate": "<p>Dick Cheney is a seasoned operative of the Republican Party who has served as White House Chief of Staff, Minority Whip in Congress, Secretary of Defense, and as CEO of Halliburton. He would be a respected choice across the Republican spectrum, and would add experience and gravitas to the Republican ticket.</p>",
-            "candidate_score": 0,
-            "running_mate": true
-        }
-    },
-    {
-        "model": "campaign_trail.candidate",
-        "pk": 85,
-        "fields": {
-            "first_name": "Joe",
-            "last_name": "Lieberman",
-            "election": 9,
-            "party": "Democrat",
-            "state": "Connecticut",
-            "priority": 9,
-            "description": "''",
-            "color_hex": "#0000FF",
-            "secondary_color_hex": "#90C0FF",
-            "is_active": 0,
-            "image_url": "https://www.jetsimon.com/public/static/images/joe-lieberman-2000.jpg",
-            "electoral_victory_message": "''",
-            "electoral_loss_message": "''",
-            "no_electoral_majority_message": "''",
-            "description_as_running_mate": "<p>Joe Lieberman is a moderate Democrat and Orthodox Jew who has served as a Senator from Connecticut. He would be the first Jewish candidate or running mate from a major party. He was also a prominent critic of Bill Clinton's missteps during his time in the White House. Geographically, Lieberman could help with Gore's vote total in the critical state of Florida.</p>",
-            "candidate_score": 0,
-            "running_mate": true
-        }
-    },
-    {
-        "model": "campaign_trail.candidate",
-        "pk": 86,
-        "fields": {
-            "first_name": "Bob",
-            "last_name": "Graham",
-            "election": 9,
-            "party": "Democrat",
-            "state": "Florida",
-            "priority": 10,
-            "description": "''",
-            "color_hex": "#0000FF",
-            "secondary_color_hex": "#90C0FF",
-            "is_active": 0,
-            "image_url": "https://www.jetsimon.com/public/static/images/bob-graham-2000.jpg",
-            "electoral_victory_message": "''",
-            "electoral_loss_message": "''",
-            "no_electoral_majority_message": "''",
-            "description_as_running_mate": "<p>Bob Graham is a Senator and former Governor from Florida. His popularity in that state could be crucial to a Democratic victory in 2000. He is fairly moderate and was one of Bill Clinton's top choices for running mate before Clinton went with Gore. His focus has been on the environment, education, and intelligence issues.</p>",
-            "candidate_score": 0,
-            "running_mate": true
-        }
-    },
-    {
-        "model": "campaign_trail.candidate",
-        "pk": 87,
-        "fields": {
-            "first_name": "John",
-            "last_name": "Kerry",
-            "election": 9,
-            "party": "Democrat",
-            "state": "Massachusetts",
-            "priority": 11,
-            "description": "''",
-            "color_hex": "#0000FF",
-            "secondary_color_hex": "#90C0FF",
-            "is_active": 0,
-            "image_url": "https://www.jetsimon.com/public/static/images/john-kerry-2000.jpg",
-            "electoral_victory_message": "''",
-            "electoral_loss_message": "''",
-            "no_electoral_majority_message": "''",
-            "description_as_running_mate": "<p>John Kerry is a Senator from Massachusetts. He gained prominence in his youth as a Vietnam Veteran Against the War. He also won a Silver Star in that war. He is a solid liberal on the political spectrum. His home state is strongly Democratic, but his views may help the Democrats reduce the loss of support to Ralph Nader. He can also be helpful in New Hampshire.</p>",
-            "candidate_score": 0,
-            "running_mate": true
-        }
-    },
-    {
-        "model": "campaign_trail.candidate",
-        "pk": 88,
-        "fields": {
-            "first_name": "Evan",
-            "last_name": "Bayh",
-            "election": 9,
-            "party": "Democrat",
-            "state": "Indiana",
-            "priority": 12,
-            "description": "''",
-            "color_hex": "#0000FF",
-            "secondary_color_hex": "#90C0FF",
-            "is_active": 0,
-            "image_url": "https://www.jetsimon.com/public/static/images/evan-bayh-2000.jpg",
-            "electoral_victory_message": "''",
-            "electoral_loss_message": "''",
-            "no_electoral_majority_message": "''",
-            "description_as_running_mate": "<p>Evan Bayh is a Senator from Indiana and a former Governor. He is broadly popular in that state and is a leader of the moderate wing of the Democrats. This could help the Democrats compete in the Midwest and South, but it could also alienate the left-wing of the party and drive additional support to Ralph Nader's bid.</p>",
-            "candidate_score": 0,
-            "running_mate": true
-        }
-    },
-    {
-        "model": "campaign_trail.candidate",
-        "pk": 89,
-        "fields": {
-            "first_name": "Winona",
-            "last_name": "LaDuke",
-            "election": 9,
-            "party": "Green",
-            "state": "Minnesota",
-            "priority": 13,
-            "description": "''",
-            "color_hex": "#00C100",
-            "secondary_color_hex": "#A1FFA1",
-            "is_active": 0,
-            "image_url": "https://www.jetsimon.com/public/static/images/winona-laduke-2000.jpg",
-            "electoral_victory_message": "''",
-            "electoral_loss_message": "''",
-            "no_electoral_majority_message": "''",
-            "description_as_running_mate": "<p>Winona LaDuke is a Native American activist of Ojibwe ancestry. She lives in Minnesota and has been active in attempts to regain land that once belonged to various American Indian tribes. She has written a book and started organizations in support of this issue.</p>",
-            "candidate_score": 0,
-            "running_mate": true
-        }
-    },
-    {
-        "model": "campaign_trail.candidate",
-        "pk": 90,
-        "fields": {
-            "first_name": "Ezola",
-            "last_name": "Foster",
-            "election": 9,
-            "party": "Reform",
-            "state": "California",
-            "priority": 14,
-            "description": "''",
-            "color_hex": "#FFFF00",
-            "secondary_color_hex": "#FFFFC0",
-            "is_active": 0,
-            "image_url": "''",
-            "electoral_victory_message": "''",
-            "electoral_loss_message": "''",
-            "no_electoral_majority_message": "''",
-            "description_as_running_mate": "''",
+            "description_as_running_mate": "<p>Oh, Maggie is such a darling, ain't she? When it comes to personal popularity, she's swimming in it. She's the Mississippi darling and your biggest cheerleader. Sometimes, your best advisor. When it comes to having a trustworthy voice in the room, it's her. So much so that your own Lt. Governor feels he's not even in the administration Sometimes. That isn't your problem, though; she's your rock.</p>",
             "candidate_score": 0,
             "running_mate": true
         }
@@ -301,58 +163,10 @@ campaignTrail_temp.candidate_json = [
 campaignTrail_temp.running_mate_json = [
     {
         "model": "campaign_trail.running_mate",
-        "pk": 57,
-        "fields": {
-            "candidate": 80,
-            "running_mate": 90
-        }
-    },
-    {
-        "model": "campaign_trail.running_mate",
-        "pk": 56,
-        "fields": {
-            "candidate": 79,
-            "running_mate": 89
-        }
-    },
-    {
-        "model": "campaign_trail.running_mate",
         "pk": 48,
         "fields": {
             "candidate": 77,
             "running_mate": 81
-        }
-    },
-    {
-        "model": "campaign_trail.running_mate",
-        "pk": 52,
-        "fields": {
-            "candidate": 78,
-            "running_mate": 85
-        }
-    },
-    {
-        "model": "campaign_trail.running_mate",
-        "pk": 53,
-        "fields": {
-            "candidate": 78,
-            "running_mate": 86
-        }
-    },
-    {
-        "model": "campaign_trail.running_mate",
-        "pk": 54,
-        "fields": {
-            "candidate": 78,
-            "running_mate": 87
-        }
-    },
-    {
-        "model": "campaign_trail.running_mate",
-        "pk": 55,
-        "fields": {
-            "candidate": 78,
-            "running_mate": 88
         }
     }
 ]
@@ -388,7 +202,7 @@ campaignTrail_temp.temp_election_list = [
         "id": 9,
         "year": 2000,
         "is_premium": 0,
-        "display_year": "2000"
+        "display_year": "2023 WOKE"
     }
 ]
 
@@ -425,4 +239,257 @@ document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_wi
 
 //#endcode
 
+// Soundtrack
 
+// Initialise custom music
+
+$("#music_player")[0].children[0].style.display="none"
+$("#music_player")[0].children[1].style.display="none"
+
+document.getElementById("modLoadReveal").style.display="none"
+document.getElementById("modloaddiv").style.display="none"
+
+musicBox = document.getElementById("music_player")
+musicBox.style.display=""
+
+var trackSel;
+e = campaignTrail_temp
+e.selectedSoundtrack = 0
+
+toTime = (seconds) => {
+  var date = new Date(null);
+  date.setSeconds(seconds);
+  return date.toISOString().substr(11, 8);
+}
+
+generateTime = () => {
+    // Get the audio element
+    var audio = document.getElementById("campaigntrailmusic");
+
+    timeTracker = document.createElement("div");
+    timeTracker.style = `
+      text-align:left;
+      border-style:solid;
+      border-width:3px;
+      height:150px;
+      width:200px;
+      background-color:#999999;
+      float:right;
+      padding: 10px;
+    `
+    $("#trackSelParent")[0].prepend(timeTracker);
+    $("#trackSelParent")[0].prepend(document.createElement("br"));
+
+    // Create a new element to display the current position of the audio
+    var positionDisplay = document.createElement("gg");
+    positionDisplay.id = "position-display";
+
+    // Create a new slider element to change the time
+    var timeSlider = document.createElement("input");
+    timeSlider.type = "range";
+    timeSlider.min = 0;
+    timeSlider.max = 1;
+    timeSlider.step = 0.001;
+    timeSlider.value = 0;
+    timeSlider.style.width = "200px";
+    timeSlider.id = "time-slider";
+
+    var pausePlay = document.createElement("button");
+    pausePlay.id = "position-display";
+    pausePlay.innerHTML = "<b>Pause</b>"
+    pausePlay.style.width = "100%";
+
+
+    pausePlay.addEventListener("click", event => {
+      event.preventDefault();
+      updatePositionDisplay();
+      let audio = document.getElementById("campaigntrailmusic");
+      if (audio.paused) {
+        audio.play();
+        event.target.innerHTML = "<b>Pause</b>";
+        return;
+      }
+      audio.pause();
+      event.target.innerHTML = "<b>Play</b>";
+      return;
+    })
+
+    var volumeLabel = document.createElement("gg");
+    volumeLabel.id = "volume-label";
+    volumeLabel.innerHTML = "<br><b>Volume: </b>"
+
+    var volumeSlider = document.createElement("input");
+    volumeSlider.type = "range";
+    volumeSlider.min = 0;
+    volumeSlider.max = 1;
+    volumeSlider.step = 0.001;
+    volumeSlider.value = 0;
+    volumeSlider.style.width = "200px";
+    volumeSlider.id = "volume-slider";
+
+    volumeSlider.value = audio.volume;
+
+    timeTracker.appendChild(pausePlay);
+    timeTracker.appendChild(document.createElement("br"));
+    timeTracker.appendChild(document.createElement("br"));
+    timeTracker.appendChild(positionDisplay);
+    timeTracker.appendChild(timeSlider);
+    timeTracker.appendChild(volumeLabel);
+    timeTracker.appendChild(volumeSlider);
+
+    updatePositionDisplay();
+
+    //for (let i = 0; i < 10; i++)
+    //timeTracker.append(document.createElement("br"));
+
+
+    // Function to update the position display
+    function updatePositionDisplay() {
+      positionDisplay.innerHTML = "<b>Time:</b> " + toTime(audio.currentTime) + "<br>";
+      timeSlider.value = audio.duration ? audio.currentTime / audio.duration : 0;
+    }
+
+    // Function to change the time of the audio
+    function changeTime() {
+      positionDisplay.innerHTML = "<b>Time:</b> " + toTime(audio.currentTime) + "<br>";
+      audio.currentTime = timeSlider.value * audio.duration;
+    }
+
+    updateVolume = event => {
+      audio.volume = event.target.value;
+    }
+    
+    // Update the position display and slider every second
+    setInterval(updatePositionDisplay, 1000);
+
+    // Listen for changes to the time slider and change the time of the audio
+    timeSlider.addEventListener("input", changeTime);
+    volumeSlider.addEventListener("input", updateVolume)
+}
+
+function newMusicPlayer() {
+  trackSel = document.createElement("div");
+  trackSel.id = "trackSelParent"
+  let z = `<br><br><br><br><br><br><br><br><br><br><div id='trackSel' style="text-align:left;border-style:solid;border-width:3px;overflow-y: scroll;overflow-x: hidden;height:200px; width:400px;background-color:#999999;float:right;">`
+  z += `<b><select id='selectSoundtrack'><option value='`+soundtracks[e.selectedSoundtrack].name+`'>`+soundtracks[e.selectedSoundtrack].name+"</option>"
+  for (i in soundtracks) {
+    if (soundtracks[e.selectedSoundtrack] != soundtracks[i]) {
+      z += `<option value='`+soundtracks[i].name+`'>`+soundtracks[i].name+`</option>`
+    }
+  }
+  z += `</select></b><br><br>`
+  // <label><input type="radio" name="option" value="option1">Option 1</label><br>
+  for (i in soundtracks[e.selectedSoundtrack].tracklist) {
+    let a = soundtracks[e.selectedSoundtrack].tracklist[i]
+    let b = `<label><input class="trackSelector" type="radio" name="trackSelector" value="`+i+`">`+a.name+`</label><br>`
+    z += b
+  }
+  z += "</div><br><br>"
+  trackSel.innerHTML = z
+
+  // select correct song
+
+  musicBox.appendChild(trackSel);
+  Array.from(document.getElementById("trackSel").children).filter(f=>{
+    return f.tagName == "LABEL"
+  }).map(f=>f.children[0])[0].checked = true
+
+  // set soundtrack changer
+
+  soundtrackSelector = document.getElementById("selectSoundtrack")
+  soundtrackSelector.onchange = function() {
+    for (i in soundtracks) {
+      if (soundtracks[i].name == soundtrackSelector.value) {
+        e.selectedSoundtrack = i
+        break
+      }
+    }
+    document.getElementById("trackSelParent").remove()
+    newMusicPlayer()
+  }
+
+  var matches = document.querySelectorAll('.trackSelector');
+
+  for (match in matches) {
+    matches[match].onchange = function() {
+      audio = $("#campaigntrailmusic")[0];
+      audio.src = soundtracks[e.selectedSoundtrack].tracklist[this.value].url
+      audio.currentTime = 0
+    }
+  }
+
+  musicBox.children[2].loop = false
+  musicBox.children[2].src = soundtracks[e.selectedSoundtrack].tracklist[0].url
+
+  musicBox.children[2].onended = function() {
+    console.log("next track")
+    let selected = Number(document.querySelector('input[name="trackSelector"]:checked').value);
+    let newSel = clamp(selected+1, soundtracks[e.selectedSoundtrack].tracklist.length-1, 0)
+    let buttons = Array.from(document.getElementById("trackSel").children).filter(f=>{
+      return f.tagName == "LABEL"
+    }).map(f=>f.children[0])
+    //let selectedIndex = buttons.map(f=>f.children[0]).map(f=>f.checked)
+    buttons[newSel].click()
+  }
+
+  for (w = 0; w < 7; w++) {
+    document.getElementById("trackSelParent").appendChild(document.createElement("br"))
+  }
+  
+  generateTime();
+}
+
+clamp = function(a, max, min, overflow=true) {
+  if (overflow) {
+    return a > max ? min : a < min ? max : a;
+  }
+  return a > max ? max : a < min ? min : a;
+}
+
+
+// Track list
+
+var soundtracks = {
+  0: {
+    name: "Bobby",
+    tracklist: [
+      {
+        "name": "Happy Together (2016 Remaster)- The Turtles",
+        "url": "https://audio.jukehost.co.uk/UFgRRpCixJuIfaJDu1kRm3as1vjl1cU7"
+      },
+      {
+        "name": "Radiohead - Creep",
+        "url": "https://audio.jukehost.co.uk/1tVr1Jou0RVTHsb93ShPk7k1GAjLGIzh"
+      },
+      {
+        "name": "The Kill (Bury Me) - 30 Seconds To Mars",
+        "url": "https://audio.jukehost.co.uk/ApL48BcagpmkAFig51ulaniVkaLZS01J"
+      }
+    ]
+  }
+}
+
+// Set up new music player
+
+newMusicPlayer()
+
+
+function modifyForm() {
+  try {
+    const form = document.querySelector('form[name="game_type_selection"]');
+    const select = form.querySelector('select[name="game_type_id"]');
+  
+    // change option value
+    const option = select.querySelector('option[value="1"]');
+    option.textContent = 'Default (Proportional)';
+
+    // Remove second option
+    select.querySelector('option[value="1"]').remove();
+  
+    // change h3 text
+    const h3 = form.querySelector('h3');
+    h3.textContent = 'How would you like the seats to be allocated?';
+  } catch {}
+}
+
+//#endcode
