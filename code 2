@@ -97,7 +97,7 @@ campaignTrail_temp.questions_json = [
         "pk": 344,
         "fields": {
             "priority": 2,
-            "description": "Despite numerous attempts to kill the bill, it seems it was all for nothing as it landed on your desk. The newest piece of legislation that your party has cooked up will force any and all educators to inform parents of their child's mental state and refrain from everyone discussing sexual or gender-oriented behavior with that child. Will you sign it?",
+            "description": "Despite numerous attempts to kill the bill, it seems it was all for nothing as it landed on your desk. The newest piece of legislation that your party has cooked up will force any educators to inform parents of their child's mental state and refrain from everyone discussing sexual or gender-oriented behavior with that child. Will you sign it?",
             "likelihood": 1
         }
     },
@@ -414,7 +414,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3340,
         "fields": {
             "question": 350,
-            "description": "Maggie, I'm sorry, Maggie. It wasn't. I didn't mean to; I didn't know how to. It wasn't serious; it was just a fantasy; it was just a way to relieve stress."
+            "description": "Maggie, I'm sorry, Maggie. It wasn't. I didn't mean to; I didn't know how to. It wasn't serious; it was just a fantasy and a way to relieve stress."
         }
     },
     {
@@ -494,7 +494,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3381,
         "fields": {
             "question": 362,
-            "description": "It's hopeless, Maggie I can't even keep the party in line anymore. It's over, I'm finished, humiliated, I don't even want this job anymore."
+            "description": "It's hopeless, Maggie. I can't even keep the party in line anymore. It's over. I'm finished, humiliated, and I don't even want this job anymore."
         }
     },
     {
@@ -590,7 +590,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3420,
         "fields": {
             "question": 372,
-            "description": "How about we try emphasizing my record? I have defended these communities in that state from almost all of the discrimination sent to the legislature, and I will continue to do so."
+            "description": "Let's try emphasizing my record. I have defended these communities from almost all of the discrimination sent to the legislature and will continue to do so."
         }
     },
     {
@@ -638,7 +638,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3464,
         "fields": {
             "question": 384,
-            "description": "I can't do this. I'm sorry, everyone, for wasting your time and for being this way. I... I gotta leave."
+            "description": "I can't do this. I'm sorry for wasting your time and being this way. I... I have to leave."
         }
     },
     {
@@ -646,7 +646,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3474,
         "fields": {
             "question": 387,
-            "description": "God, I wanna snap his skinny neck, that little twirp. Throw something back at him and ruin his career. I don't care. I want him burned to the ground for this crap!"
+            "description": "God, I want to snap his skinny neck, that little twirp. Throw something back at him and ruin his career. I don't care. I want him burned to the ground for this crap!"
         }
     },
     {
@@ -654,7 +654,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3475,
         "fields": {
             "question": 387,
-            "description": "After everything I've done for him he goes and betrays me like this? I- I have nothing to say he can prance around all he likes."
+            "description": "After everything I've done for him, he goes and betrays me like this? I- I have nothing to say he can prance around all he likes."
         }
     },
     {
@@ -662,7 +662,7 @@ campaignTrail_temp.answers_json = [
         "pk": 3476,
         "fields": {
             "question": 387,
-            "description": "Schmidt is a liar! This is just ridiculous. Give me a break already! There's nothing more to find out. Everything is out in the open. Everything, and there's plenty to find out about that jackass! He's doing nothing cuts!"
+            "description": "Schmidt is a liar! This is just ridiculous. Give me a break already! There's nothing more to find out. Everything is out in the open. Everything, and there's plenty to find out about that jackass! He's doing nothing, cuts!"
         }
     },
     {
@@ -870,7 +870,7 @@ campaignTrail_temp.answers_json = [
         "pk": 12640,
         "fields": {
             "question": 12630,
-            "description": "I'm sorry, Momma; I know you told me to do better. I know you told me to quit acting like a sissy. I'm sorry I disobeyed you; I'm sorry I wasn't the man you hoped I'd grow up to be. I'm sorry I let you down; I let everyone down. I'm sorry it's come to this. I just wanted to feel normal, I just wanted to feel right."
+            "description": "I'm sorry, Momma; you told me to do better. I know you told me to quit acting like a sissy. I'm sorry I disobeyed you; I'm sorry I wasn't the man you hoped I'd become. I'm sorry I let you down; I let everyone down. I'm sorry it's come to this. I just wanted to feel normal; I just wanted to feel right."
         }
     }
 ]
@@ -9958,8 +9958,8 @@ campaignTrail_temp.answer_score_global_json = [
         "fields": {
             "answer": 3357,
             "candidate": 77,
-            "affected_candidate": 77,
-            "global_multiplier": -0.325
+            "affected_candidate": 79,
+            "global_multiplier": 0.225
         }
     },
     {
@@ -9968,8 +9968,8 @@ campaignTrail_temp.answer_score_global_json = [
         "fields": {
             "answer": 12609,
             "candidate": 77,
-            "affected_candidate": 77,
-            "global_multiplier": -0.325
+            "affected_candidate": 79,
+            "global_multiplier": 0.225
         }
     },
     {
@@ -9978,8 +9978,8 @@ campaignTrail_temp.answer_score_global_json = [
         "fields": {
             "answer": 12612,
             "candidate": 77,
-            "affected_candidate": 77,
-            "global_multiplier": -0.325
+            "affected_candidate": 79,
+            "global_multiplier": 0.225
         }
     },
     {
@@ -10928,6 +10928,7 @@ campaignTrail_temp.jet_data = [{
 ]
 
 
+
 var meanie = 0;
 campaignTrail_temp.cyoa = true
 cyoAdventure = function(a) {
@@ -11020,7 +11021,7 @@ endingPicker = (out, totv, aa, quickstats) => {
         //totv = total votes in entire election
         //aa = all final overall results data
         //quickstats = relevant data on candidate performance (format: your candidate's electoral vote count, your candidate's popular vote share, your candidate's raw vote total)
-  if (quickstats[0] > 1) {
+  if (quickstats[0] > -1) {
 
     window.setTimeout(nukeEnding, 200);
 
