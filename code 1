@@ -29,7 +29,7 @@ campaignTrail_temp.election_json = [
         "pk": 9,
         "fields": {
             "year": 2000,
-            "summary": "<p>As the 2023 Mississippi Gubernatorial election begins, incumbent Republican Governor Robert C. Landun enjoys an approval rating of over 55%. Democratic challenger Cameron Murray, a journalist, attempts a herculean upward challenge against Governor Landun. Nasty tactics and grueling attacks aren't uncommon with Murray.</p><p>WARNING: THIS MOD IS A FICTIONAL ELECTION WITH MAJOR LGBTQ+, SUICIDE, AND DEPRESSION THEMES. </p>",
+            "summary": "<p>As the 2023 Mississippi Gubernatorial election begins, incumbent Republican Governor Robert C. Landun enjoys an approval rating of over 55%. Democratic challenger Cameron Murray, a journalist, attempts a herculean upward challenge against Governor Landun. Nasty tactics and grueling attacks aren't uncommon with Murray.</p><p>WARNING: THIS MOD IS A FICTIONAL ELECTION WITH MAJOR LGBTQ+, SUICIDE, AND DEPRESSION THEMES. </p><p>This mod's endings are experimental and do not work on mobile devices.</p>",
             "image_url": "https://i.imgur.com/eR0X7RZ.jpeg",
             "winning_electoral_vote_number": 270,
             "advisor_url": "https://i.imgur.com/VLpfTXi.jpeg",
