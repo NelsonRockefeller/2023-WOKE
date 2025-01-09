@@ -10905,8 +10905,8 @@ campaignTrail_temp.answer_feedback_json = [
     }
 ]
 
-campaignTrail_temp.candidate_image_url = "https://i.imgur.com/Qjx7KZq.png";
-campaignTrail_temp.running_mate_image_url = "https://i.imgur.com/cwjQiRv.png";
+campaignTrail_temp.candidate_image_url = "https://i.imgur.com/cfBbuvl.jpeg";
+campaignTrail_temp.running_mate_image_url = "https://i.imgur.com/BOvYX5u.jpeg";
 campaignTrail_temp.candidate_last_name = "Get em!";
 campaignTrail_temp.running_mate_last_name = "Bobby!";
 
@@ -10921,8 +10921,8 @@ campaignTrail_temp.jet_data = [{
     "banner_data": {
         "canName": "Get em!",
         "runName": "Bobby!",
-        "canImage": "https://i.imgur.com/Qjx7KZq.png",
-        "runImage": "https://i.imgur.com/cwjQiRv.png"
+        "canImage": "https://i.imgur.com/cfBbuvl.jpeg",
+        "runImage": "hhttps://i.imgur.com/BOvYX5u.jpeg"
     }
 }
 ]
@@ -11035,14 +11035,14 @@ nukeEnding = () => {
     nct_stuff.dynamicOverride = true;
     nct_stuff.themes[nct_stuff.selectedTheme] = {
         name: "Bobby,s mind",
-        background: "https://i.imgur.com/0F4kB5C.jpeg",
+        background: "https://i.imgur.com/Q11eG1n.jpeg",
         background_cover: true,
-        banner: "https://i.imgur.com/hU7llEY.jpeg",
+        banner: "https://i.imgur.com/6WKnu3W.jpeg",
         coloring_window: "#600c0c",
         coloring_container: "#110711",
         coloring_title: "#160404",
         text_col: "white",
-        window_url: "https://i.imgur.com/x6LzB3U.jpeg"
+        window_url: "https://i.imgur.com/cgUrT7G.jpeg"
     }
     selectedTheme = nct_stuff.themes[nct_stuff.selectedTheme]
     document.body.style.backgroundColor="black" // lol
@@ -11170,7 +11170,7 @@ nukeEnding = () => {
     menu.classList.add("nukemap");
     menu.innerHTML = `
     <h1>Bobby? are you okay?</h1>
-    <img src='https://i.imgur.com/5PpmJo0.jpeg' id='map' />
+    <img src='https://i.imgur.com/VhTPlty.jpeg' id='map' />
     <button id='back'>\u003c</button> <button id='forward'>\u003e</button>
     <button id='confirm'>Select</button>
     `;
@@ -11179,19 +11179,19 @@ nukeEnding = () => {
     
     nuke.maps = [{
         name: "letters",
-        url: "https://i.imgur.com/5Y9F0yy.png"
+        url: "https://i.imgur.com/9vLYhVj.png"
     }, {
         name: "phone",
-        url: "https://i.imgur.com/sVLHz6z.png"
+        url: "https://i.imgur.com/NkCmAOq.png"
     }, {
         name: "pills",
-        url: "https://i.imgur.com/BsTQsCy.png"
+        url: "https://i.imgur.com/wihR3Zj.png"
     }, {
         name: "letter",
-        url: "https://i.imgur.com/udU4nQn.png"
+        url: "https://i.imgur.com/p4feNsC.png"
     }, {
         name: "door",
-        url: "https://i.imgur.com/zoYXCz8.png"
+        url: "https://i.imgur.com/jHCVXxM.png"
     }];
     
     nuke.selected = -1;
@@ -11291,7 +11291,7 @@ nukeEnding = () => {
         }
     
         mapImage.style.opacity = "0";
-        mapImage.src = "https://i.imgur.com/VyHfupZ.png";
+        mapImage.src = "https://i.imgur.com/VhTPlty.jpeg";
     
         setTimeout(() => {
             setTimeout(() => {
